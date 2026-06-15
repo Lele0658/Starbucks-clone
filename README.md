@@ -4,7 +4,8 @@ A front-end clone of the Starbucks Coffee Company website, built as a demonstrat
 
 ## 📸 Preview
 
-> *Hero section with summer promotion, featured product cards, story and secret menu sections, rewards banner, and a full footer.*
+<img width="1240" height="3299" alt="image" src="https://github.com/user-attachments/assets/551edde3-e443-4627-8b6f-2aecc0018b83" />
+
 
 ## ✨ Features
 
