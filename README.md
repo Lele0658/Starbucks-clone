@@ -49,7 +49,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/starbucks-clone.git
+   git clone https://github.com/Lele0658/Starbucks-clone.git
    
 2. **Navigate into the project folder**
  
